@@ -1,7 +1,7 @@
 generate:
 	hexo g
 
-depoy:
+deploy:
 	hexo d
 
 clean:

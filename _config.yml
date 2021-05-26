@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Lazy Code
+subtitle: 'Too lazy to code'
+description: 'Personal blog for p.Chen'
 keywords:
-author: 跳水coder
-language: en
+author: p.Chen
+language: zh-TW
 timezone: ''
 
 # URL
